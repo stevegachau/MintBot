@@ -9,7 +9,7 @@ To mint, simply attach an image to a message and include a caption in the follow
 ```
 The NFTs are minted on Polygon (an Ethereum layer 2 network) and the bot covers the gas costs.
 
-![mintbot screenshot](https://i.ibb.co/FD5CdVV/mintbot.png){:width="500px"}
+<img src="https://i.ibb.co/FD5CdVV/mintbot.png" width="100">
 
 On successful minting, your NFTs will be visible on marketplaces (which support Polygon) such as Opensea.
 
