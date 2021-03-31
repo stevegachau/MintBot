@@ -8,7 +8,7 @@ To mint, simply attach an image to a message and include a caption in the follow
 ```
 <address> : <name/title> : <description>
 ```
-The NFTs are minted on [Polygon](https://polygon.technology/) (an Ethereum layer 2 network) and the bot covers the gas costs.
+The NFTs are minted on [Polygon](https://polygon.technology/) (an Ethereum layer 2 network) and the bot covers the gas costs. ENS domains and .crypto(Unstoppable domains) are also supported.
 
 
 
