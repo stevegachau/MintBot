@@ -1,6 +1,6 @@
 # MintBot : Mint NFTs directly via Telegram
 
-This bot allows anyone to create an NFT directly from their telegram app. To get started, open the [bot](https://t.me/nftmintbot) and click /start.
+This bot allows anyone to create an NFT directly from their telegram app. To get started, open the [MintBot](https://t.me/nftmintbot) and click /start.
 Images are securely stored on IPFS using [Fleek Storage JS](https://docs.fleek.co/storage/fleek-storage-js/)
 
 To mint, simply attach an image to a message and include a caption in the following format. 
