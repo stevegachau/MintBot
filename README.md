@@ -16,7 +16,7 @@ The NFTs are minted on [Polygon](https://polygon.technology/) (an Ethereum layer
 
 
 
-On successful minting, your NFTs will be visible on marketplaces (which support Polygon) such as Opensea.
+On successful minting, your NFTs will be visible on marketplaces (which support Polygon) such as [Opensea](https://https://opensea.io//).
 
 
 
