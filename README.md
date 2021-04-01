@@ -4,6 +4,7 @@ This bot allows anyone to create an NFT directly from their telegram app. To get
 Images are securely stored on IPFS using [Fleek Storage JS](https://docs.fleek.co/storage/fleek-storage-js/)
 
 [Youtube video](https://youtu.be/08w-y__hEec/)
+
 [![](http://img.youtube.com/vi/08w-y__hEec/0.jpg)](http://www.youtube.com/watch?v=08w-y__hEec "MintBot: Mint NFTs via Telegram")
 
 To mint, simply attach an image to a message and include a caption in the following format. 
