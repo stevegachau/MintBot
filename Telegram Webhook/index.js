@@ -1,6 +1,5 @@
 exports.helloWorld = async (req, res) => {
 
-res.status(200).send(); 
 
 const request = require('request');
 
