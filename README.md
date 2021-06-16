@@ -1,3 +1,5 @@
+NOTE: ENSURE YOU HAVE SET A TELEGRAM USERNAME BEFORE USING THE MINTBOT
+
 # MintBot : Mint NFTs directly via Telegram
 
 This bot allows anyone to create an NFT directly from their telegram app. To get started, open [MintBot](https://t.me/nftmintbot) and click /start.
