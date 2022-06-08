@@ -45,7 +45,7 @@ else {
 }
 
 console.log(req.body.message);
-res.status(200).send();
+res.send();
 
 
 };
