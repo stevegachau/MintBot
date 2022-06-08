@@ -7,7 +7,7 @@
     "bip44-constants": "^8.0.5",
     "@ensdomains/address-encoder": ">= 0.1.x <= 0.2.x",
     "content-hash": "^2.5.2",
-    "@fleekhq/fleek-storage-js":"1.0.14",
-    "node-fetch":"2.6.1"
+    "@fleekhq/fleek-storage-js":"latest",
+    "node-fetch":"latest"
   }
 }
