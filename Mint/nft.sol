@@ -9,10 +9,10 @@ contract MintbotCollection is ERC721URIStorage, Ownable {
 
     constructor(string memory A, string memory B, address C) ERC721(A, B) {
         
-    transferOwnership(C);  
+    transferOwner(C);  
     
     }
-    function mintItem(address owner, string memory tokenURI, uint newItemId)
+    function mintNFT(address owner, string memory tokenURI, uint newItemId)
         public
         returns (uint256)
     {
