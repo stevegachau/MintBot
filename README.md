@@ -1,4 +1,4 @@
-#Mintbot : Gas free ENS subdomains via Twitter
+# Mintbot : Gas free ENS subdomains via Twitter
 
 Mintbot started out as a service that allows ENS Domain holders to create collections for free and mint NFTs directly from their Telegram account.
 
