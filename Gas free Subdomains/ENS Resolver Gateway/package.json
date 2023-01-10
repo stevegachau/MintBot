@@ -1,0 +1,10 @@
+{
+  "name": "gateway",
+  "version": "0.0.1",
+  "dependencies": {
+    "web3": "latest",
+    "ethereum-input-data-decoder": "latest",
+    "ethers": "5.6.2",
+     "mongodb":"3.7.3"
+  }
+}
