@@ -1,0 +1,8 @@
+{
+  "name": "ens",
+  "version": "0.0.1",
+  "dependencies": {
+    "mongodb":"3.7.3",
+    "twitter-api-v2": "latest"
+  }
+} 
